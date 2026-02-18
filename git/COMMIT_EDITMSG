@@ -1,0 +1,10 @@
+Update app's color scheme and add audio player functionality
+
+Refactors the application's color palette to a lighter theme, introduces an audio player component for chapters, and updates dependencies to use `expo-audio` instead of the deprecated `expo-av`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: e398fcb9-f8ae-4f0e-9d47-547acc98da0a
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 5666df4c-3d90-440d-b4ac-7e2102aa7730
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/ac50fff9-232b-4a12-8d55-c879108b99dd/e398fcb9-f8ae-4f0e-9d47-547acc98da0a/pa0iAta
+Replit-Helium-Checkpoint-Created: true
